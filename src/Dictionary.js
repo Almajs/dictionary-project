@@ -30,7 +30,9 @@ export default function Dictionary() {
         {" "}
         <input type="Search" onChange={handleKeywordChange} />
       </form>
-      <Results results={results} />
+      <div>
+        <Results results={results} />
+      </div>
     </div>
   );
 }
