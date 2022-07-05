@@ -13,7 +13,19 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>This project was built by Alma Zamir</small>
+          <small>
+            This project was built by Alma Zamir and is{" "}
+            <a
+              href="https://github.com/Almajs/dictionary-project"
+              target="blank"
+            >
+              open-sourced on GitHub
+            </a>{" "}
+            and hosted on{" "}
+            <a href="" target="blank">
+              Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
