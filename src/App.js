@@ -22,7 +22,7 @@ export default function App() {
               open-sourced on GitHub
             </a>{" "}
             and hosted on{" "}
-            <a href="" target="blank">
+            <a href="#" target="blank">
               Netlify
             </a>
           </small>
