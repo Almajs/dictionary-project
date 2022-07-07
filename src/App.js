@@ -23,7 +23,7 @@ export default function App() {
             </a>{" "}
             and hosted on{" "}
             <a
-              href="https://main--incredible-pastelito-7caf01.netlify.app/"
+              href="https://62c6eb5c05c99800080afc78--incredible-pastelito-7caf01.netlify.app/"
               target="blank"
             >
               <em>Netlify</em>
