@@ -19,14 +19,14 @@ export default function App() {
               href="https://github.com/Almajs/dictionary-project"
               target="blank"
             >
-              open-sourced on GitHub
+              <em>open-sourced on GitHub</em>
             </a>{" "}
             and hosted on{" "}
             <a
               href="https://main--incredible-pastelito-7caf01.netlify.app/"
               target="blank"
             >
-              Netlify
+              <em>Netlify</em>
             </a>
           </small>
         </footer>
