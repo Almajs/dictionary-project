@@ -14,17 +14,17 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            This project was built by Alma Zamir and is{" "}
+            This project was built by Alma Zamir and is open-sourced on {""}
             <a
               href="https://github.com/Almajs/dictionary-project"
-              target="blank"
+              target="_blank"
             >
-              <em>open-sourced on GitHub</em>
+              <em>GitHub</em>
             </a>{" "}
             and hosted on{" "}
             <a
               href="https://62c6eb5c05c99800080afc78--incredible-pastelito-7caf01.netlify.app/"
-              target="blank"
+              target="_blank"
             >
               <em>Netlify</em>
             </a>

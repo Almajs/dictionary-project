@@ -1,6 +1,16 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(248, 219, 219) 0%,
+    rgb(229, 248, 250) 90%
+  );
+}
+
 .App {
   max-width: 960px;
   margin: 0 auto;
+
+  border-radius: 10px;
 }
 .App-header {
   margin: 30px 0;
@@ -14,16 +24,6 @@
 
 .App-footer {
   text-align: center;
-  font-size: 14px;
+  font-size: 15px;
   margin: 40px 0;
-  font-style: bold;
 }
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
